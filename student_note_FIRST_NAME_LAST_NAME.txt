@@ -1,0 +1,3 @@
+Ime: FIRST_NAME LAST_NAME
+Datum: DD.MM.YYYY
+Napomena: Prva beleška na GitHubu.
